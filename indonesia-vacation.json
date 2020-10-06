@@ -1,9 +1,9 @@
 [
     {
         "name" : "",
-        "origin" : "",
+        "location" : "",
         "description" : "",
         "picture" : "",
-        "youtube-link": ""
+        "gmaps": ""
     },
 ]
