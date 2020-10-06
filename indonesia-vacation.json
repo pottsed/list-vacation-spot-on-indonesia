@@ -1,9 +1,9 @@
 [
     {
         "name" : "",
-        "place" : "",
+         "location" : "",
         "description" : "",
         "picture" : "",
-        "location" : ""
+        "gmaps" : ""
     },
 ]
