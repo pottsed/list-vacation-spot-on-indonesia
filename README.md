@@ -1,1 +1,1 @@
-# list-vacation-spot-on-java
+# List Vacation Spot on Java
