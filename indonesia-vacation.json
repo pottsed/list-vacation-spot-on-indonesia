@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "location" : "",
-        "description" : "",
-        "picture" : "",
+        "name" : "Danau Toba",
+        "location" : "Sumatera Utara",
+        "description" : "Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera Gunung Supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 505 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg",
+        "gmaps": "https://goo.gl/maps/j9TgbncsXvZuQf4TA"
+    },
+    {
+        "name" : "Bukit Lawang",
+        "location" : "Langkat, Sumatera Utara",
+        "description" : "Bukit Lawang adalah nama tempat wisata di Kecamatan Bohorok, Kabupaten Langkat, Provinsi Sumatra Utara yang terletak 68 km sebelah barat laut Kota Binjai dan sekitar 80 km di sebelah barat laut kota Medan.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/9/98/Bukit_Lawang%2C_Langkat_Regency%2C_North_Sumatra%2C_Indonesia.jpg",
         "gmaps": ""
     },
 ]
