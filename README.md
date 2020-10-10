@@ -1,6 +1,6 @@
 # List Vacation Spot on Indonesia
 
-![alt](https://lh3.googleusercontent.com/proxy/WAEVWqbzOFUtnuSnBqnREvRYrTznCU_AMTCH6fAiI5gqSA91KGqFAyV72Qop_sy-Lt04w7QaOftnsAaiX314fACbBQoZneLqSQxg2eAAs4sR7Lz94JjSqLhU4u1ROkCaFEvZUw)
+![alt](https://lh3.googleusercontent.com/proxy/thMCozRqkHxDUoEPdljxImMS90jocebbon5bpCkVJUsgcfxVjkLmX1nozruioJIpOGkNdFPWQ9auDbUdz_6Wye8gDXsnWa7LHKp8KdgQScaJd2qjGoRy6lvrKQ9GQKah07UBXY7qyv5LnF6swMsNMDY-APiHI7H40b3a8DWVJmXTpjQIji_3vFaDVIHPOPu1PZVJPDmAOXkHGrRhwWvEjkM_YMM-z-2fJGJqmr_CB5Bgxd0XgB7R5Fc)
 
 Selamat datang di quest **#HacktoberFest2020** ke-dua, pada quest ini kalian diminta untuk bantu mengisi tempat wisata apa saja yang ada di Indonesia. Masing masing peserta paling minimal menambahkan 2 tempat wisata yang ada di Indonesia ke file bernama **[Indonesia Vacation.json](https://github.com/tiuinws/list-vacation-spot-on-indonesia/blob/master/indonesia-vacation.json)**.
 
