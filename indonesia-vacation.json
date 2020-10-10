@@ -1,9 +1,9 @@
 [
     {
-        "name" : "",
-        "location" : "",
-        "description" : "",
-        "picture" : "",
-        "gmaps": ""
-    },
+        "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
+        "location": "Daerah Khusus Ibukota Jakarta",
+        "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
+        "picture": "https://www.ancol.com/image/2fe3cb6b-6ed2-41f9-8eb2-baf49531aa29.jpg/activities_image/full",
+        "gmaps": "https://goo.gl/maps/dCMqKPPxbqTQhBaG6"
+    }
 ]
