@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "location" : "",
-        "description" : "",
-        "picture" : "",
-        "gmaps": ""
+        "name" : "Dusun Bambu",
+        "location" : "Bandung",
+        "description" : "Sebuah taman rekreasi untuk keluarga berbasis ecotourism di Jawa Barat. Kombinasi antara keindahan alam dan budaya tradisional sunda, Dusun Bambu menyediakan berbagai macam fasilitas untuk setiap pengunjungnya. Kampung Layung Cottage dan Sayang Heulang Camp sebagai penginapan thematic yang sangat cocok untuk menghilangkan penat dari rutinitas pekerjaan anda, 4 buah restaurant dengan masing masing keunikan dan kelezatan kulinernya yang mampu memanjakan perut, juga berbagai macam wahana bermain baik untuk dewasa maupun anak akan membuat liburan anda semakin menyenangkan.",
+        "picture" : "https://anekatempatwisata.com/wp-content/uploads/2020/05/2-Review-Wisata-Dusun-Bambu-Lembang.jpg",
+        "gmaps": "https://goo.gl/maps/E1BLYcd5aSbsSi6QA"
     },
+    {
+        "name" : "Farmhouse Lembang",
+        "location" : "Bandung",
+        "description" : "Sebagai salah satu tempat wisata lembang baru, Farm house Lembang mulai beroperasi sekitar tahun 2015. Tempat wisata di Bandung biasanya terbantu naik oleh medsos, terutama facebook dan instagram. Tampaknya tempat ini memaksimalkan banget hal ini. Dengan desain atmosfer eropa, banyak spot unik yang pastinya bakal menarik untuk swafoto/selfie, dan di posting di media sosial. memang, Farmhouse Lembang sejauh ini menawarkan ‘wisata foto’ sebagai daya tarik utamanya. Mirip-mirip dengan Dago Dream Park, hanya berbeda konsep tempatnya saja. Areanya sendiri sebenarnya cukup luas. Tapi di waktu Weekend bisa penuh banget sehingga terkesan sempit dan itu-itu aja.",
+        "picture" : "https://www.nativeindonesia.com/wp-content/uploads/2017/08/rumah-hobbit-farm-house-bandung-1-1.jpg",
+        "gmaps": "https://goo.gl/maps/PT6nD6pKscwbh3ux8"
+    }
 ]
