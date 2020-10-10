@@ -1,9 +1,9 @@
 [
     {
-        "name" : "",
-        "location" : "",
-        "description" : "",
-        "picture" : "",
-        "gmaps": ""
-    },
+        "name" : "Pulau Lemukutan",
+        "location" : "Kalimantan Barat",
+        "description" : "Pulau Lemukutan adalah pulau dengan pemandangan bawah laut yang sangat mengagumkan. Selain itu Pulau Lemukutan juga masih terjaga keasriannya dengan kondisi hutan yang masih sangat asri. Kalau dilihat Pulau Lemukutan jika dilihat mempunyai topografi seperti badan seekor lembu. Pulau Lemukutan mempunyai luas 12.520 hektar dan merupakan pulau terbesar yang ada di gugusan kepulauan disekitarnya",
+        "picture" : "https://www.google.com/maps/place/Pulau+Lemukutan,+Sungai+Raya+Kepulauan,+Kabupaten+Bengkayang,+Kalimantan+Barat/@0.765313,108.7036703,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOiBHtVgkxn3YP-S-glfS4_fP-WBUcF798cr5uZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOiBHtVgkxn3YP-S-glfS4_fP-WBUcF798cr5uZ%3Dw152-h86-k-no!7i1280!8i720!4m5!3m4!1s0x31e3a418bf257cdd:0x3e0094c67a7a5ef9!8m2!3d0.765313!4d108.7036703#",
+        "gmaps": "https://www.google.com/maps/place/Pulau+Lemukutan,+Sungai+Raya+Kepulauan,+Kabupaten+Bengkayang,+Kalimantan+Barat/data=!4m2!3m1!1s0x31e3a418bf257cdd:0x3e0094c67a7a5ef9?sa=X&ved=2ahUKEwiB57vwyKnsAhVTb30KHc6FDWsQ8gEwAHoECAkQAQ"
+    }
 ]
