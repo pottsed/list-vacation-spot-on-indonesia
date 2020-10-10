@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "location" : "",
-        "description" : "",
-        "picture" : "",
-        "gmaps": ""
+        "name" : "Ekowisata Mangrove Lantebung",
+        "location" : " Jl. Lantebung, Bira, Tamalanrea, Kota Makassar, Sulawesi Selatan 90243",
+        "description" : "Ada beberapa daya tarik yang sayang untuk dilewatkan di sini. Ada jembatan berwarna pelangi, pas untuk foto-foto di siang hari yang cerah. Lalu hamparan hutan mangrove yang letaknya hanya 2km dari pantai. Jembatannya juga panjang, 270 meter! Jadi nggak perlu khawatir bakalan rebutan spot foto. Tujuan utama dibangun objek wisata ini adalah untuk melestarikan alam, yang dimulai oleh warga setempat yang menanam bakau secara swakelola.",
+        "picture" : "https://gpswisataindonesia.info/wp-content/uploads/2020/03/Hutan-Mangrove-Lantebung.jpg",
+        "gmaps": "https://www.google.com/maps/place/Wisata+Mangrove+Lantebung/@-5.0782972,119.4640476,17z/data=!4m12!1m6!3m5!1s0x2dbefdcc556f2547:0x7a8660395fee99f7!2sWisata+Mangrove+Lantebung!8m2!3d-5.0782972!4d119.4662363!3m4!1s0x2dbefdcc556f2547:0x7a8660395fee99f7!8m2!3d-5.0782972!4d119.4662363"
+    },
+    {
+        "name" : "Lappa Laona, Barru (2 jam dari Makassar)",
+        "location" : " Jl. Lantebung, Bira, Tamalanrea, Kota Makassar, Sulawesi Selatan 90243",
+        "description" : "Nama lengkapnya Lappa Laona Barru, terletak di hamparan rumput hijau, udara dingin dan juga tanah lapang. Jarak lokasinya dari Kota Makassar sekitar 130km, 3 jam perjalanan. Lumayan jauh ya? Tapi semuanya ditebus lunas saat sampai di sana. Saat ini wisata Lappa Laona ini menyediakan aneka wahana seru yang bisa dipilih, diantaranya adalah flying fox sepanjang 270 meter, lokasi camping ground, mountain bike park, gazebo, spot foto cantik di beberapa titik yakni di pinggir jurang dan di tengah padang rumput serta Uno Stones. Meski gazebo itu belum dioperasikan, namun pengunjung dapat ber-selfie atau berfoto ria di tempat tersebut.",
+        "picture" : "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/05/21-2-LappaLaona-by-@mey_ke15@mhmmad28asry@lukmanzyah_id-740x659.jpg",
+        "gmaps": "https://www.google.com/maps/place/Harapan,+Tanete+Riaja,+Kabupaten+Barru,+Sulawesi+Selatan/@-4.5508151,119.7524772,14z/data=!4m5!3m4!1s0x2dbe3d4dd12cca6f:0x750fb15588a803ba!8m2!3d-4.5305711!4d119.7773461"
     },
 ]
