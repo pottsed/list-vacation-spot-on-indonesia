@@ -1,5 +1,19 @@
 [
     {
+        "name": "Hutan Penggaron",
+        "location": "Siroto, Susukan, East Ungaran, Semarang, Central Java 50516",
+        "description": "Meskipun menyandang nama hutan akan tetapi tempat ini bukan merupakan hutan liar yang sebenarnya. Melainkan sebuah tempat wisata yang menggunakan konsep hutan sebagai daya tarik wisatanya.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/07/Hutan-Penggaron.jpg",
+        "gmaps": "https://goo.gl/maps/NEMQ986Hczr4GM5q6"
+    },
+    {
+        "name": "Goa Rong",
+        "location": "Jl. Lerak Lopait, Lopait, Delik, Kec. Tuntang, Kota Semarang.",
+        "description": "Panoramic hilltop spot featuring mountain & lake vistas, a restaurant & access to a nearby cave.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/07/Goa-Rong-View.jpg",
+        "gmaps": "https://goo.gl/maps/6TDsp5qKq5uYzFne7"
+    },
+    {
         "name": "Dusun Semilir",
         "location": "Jl. Soekarno - Hatta No.49, Ngemple, Bawen, Ngemplak, Semarang, Jawa Tengah 50661",
         "description": "Dusun Semilir Jawa Tenggah merupakan tempat wisata yang memiliki arsitektur sangat menawan perpaduan konsep Modern & Art. Dusun Semilir ini bakal menjadi icon baru di Jawa Tengah.",
