@@ -1,5 +1,12 @@
 [
     {
+        "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
+        "location": "Daerah Khusus Ibukota Jakarta",
+        "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
+        "picture": "https://www.ancol.com/image/2fe3cb6b-6ed2-41f9-8eb2-baf49531aa29.jpg/activities_image/full",
+        "gmaps": "https://goo.gl/maps/dCMqKPPxbqTQhBaG6"
+    },
+    {
         "name": "Gunung Ungaran",
         "location": "Jawa Tengah",
         "description": "Gunung Ungaran adalah gunung berapi bertipe Stratovolcano yang terletak di Ungaran, Kabupaten Semarang, Jawa Tengah dan memiliki ketinggian 2.050 meter.",
