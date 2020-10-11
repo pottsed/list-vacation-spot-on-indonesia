@@ -1,5 +1,19 @@
 [
     {
+        "name": "Gunung Telomoyo",
+        "location": "Semarang, Jawa Tengah",
+        "description": "Gunung Telomoyo adalah gunung yang terletak di wilayah Kabupaten Semarang dan Kabupaten Magelang, Jawa Tengah. Gunung ini memiliki ketinggian 1.894 m dpl dan merupakan gunung api yang berbentuk strato tetapi belum pernah tercatat meletus.",
+        "picture": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/rutemucom-via-tribunsolo-pemandangan-gunung-telomoyo-dari-puncak-gunung.jpg",
+        "gmaps": "https://goo.gl/maps/2uaDxSAmmQsJHYi16"
+    },
+    {
+        "name": "Pondok Kopi Umbul Sidomukti",
+        "location": "Semarang, Jawa Tengah",
+        "description": "Cafe yang menyajikan menu berbagai minuman olahan kopi. Cafe ini biasanya digunakan untuk kalangan anak muda untuk sekedar nongkrong, ngopi, sambil menikmati pemandangan alam yang sangat indah.",
+        "picture": "https://www.trivindo.com/data/images/2016/12/cafe-pondok-kopi-umbul-sidomukti_800x480.jpg",
+        "gmaps": "https://goo.gl/maps/JjAGVqdB6Sv7Paqu5"
+    },
+    {
         "name": "Jakabaring sport city",
         "location": "Palembang,sumatera selatan",
         "description": "Jakabaring Sport City atau Kompleks Olahraga Jakabaring adalah kompleks dari berbagai fasilitas olahraga di Palembang, Sumatra Selatan, Indonesia. Kompleks di atas lahan seluas 325 hektar ini terletak di wilayah Seberang Ulu sejauh 5 km dari pusat kota Palembang.",
