@@ -194,5 +194,19 @@
         "description": "Pulau Kakaban adalah salah satu pulau di Kepulauan Derawan, di dalamnya terdapat berbagai wisata menarik, seperti Danau Kakaban yang di dalamnya terdapat ubur-ubur yang tidak menyengat dan dapat diajak berenang bersama.",
         "picture": "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2017/07/4d-1-by-luvtraveling-740x555.jpg",
         "gmaps": "https://goo.gl/maps/4FmwZweejgrpKdQC8"
+    },
+    {
+        "name": "Air Terjun Curugsewu",
+        "location": "Kabupaten Kendal, Jawa Tengah",
+        "description": "Curug Sewu terletak di Patean, Kendal dan merupakan air terjun tingkat tiga dengan ketinggian sekitar 80m.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftravelspromo.com%2Fhtm-wisata%2Fcurug-sewu-kendal%2F&psig=AOvVaw2mbZ9ojoq_qkNfuYaHQC-j&ust=1602553903818000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDI_9T4rewCFQAAAAAdAAAAABAD",
+        "gmaps": "https://goo.gl/maps/Y3u5KC9UJGib2wAi6"
+    },
+    {
+        "name": "Telaga Menjer",
+        "location": "Dieng jawa, Tengah",
+        "description": "Danau indah dengan kandungan belerang tinggi sehingga menciptakan pelangi yang dapat berubah warna.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftravel.detik.com%2Fdtravelers_stories%2Fu-5016781%2Fdanau-yang-warna-airnya-bisa-berubah-ubah-ada-di-dieng&psig=AOvVaw3YoWF8m73MW5v38h5Dlczi&ust=1602554286028000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDz3Iz6rewCFQAAAAAdAAAAABAD",
+        "gmaps": "https://goo.gl/maps/uu9sPt94hdSfDLxn7"
     }
 ]
