@@ -196,6 +196,20 @@
         "gmaps": "https://goo.gl/maps/4FmwZweejgrpKdQC8"
     },
     {
+        "name": "Gunung Kelimutu",
+        "location": "Flores",
+        "description": "Gunung Kelimutu adalah gunung berapi yang terletak di Pulau Flores, Provinsi NTT, Indonesia. Lokasi gunung ini tepatnya di Desa Pemo, Kecamatan Kelimutu, Kabupaten Ende. Gunung ini memiliki tiga buah danau kawah di puncaknya.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flores_Moni_Kelimutu.jpg",
+        "gmaps": "https://goo.gl/maps/R2jw3FYree1dXqwk9"
+    },
+    {
+        "name": "Gua Rangko",
+        "location": "Nusa Tenggara Timur",
+        "description": "Gua Rangko merupakan salah satu destinasi wisata alam yang terdapat di Nusa Tenggara Timur. Wisata Gua Rangko NTT juga menawarkan pesona Gua laut yang memiliki air sangat bersih dan jernih. Karena memiliki air yang jernih tersebut menjadikan pemandangan di dalam Gua nampak berwarna biru terang.",
+        "picture": "https://img.okezone.com/content/2017/07/04/406/1728567/uncover-indonesia-birunya-mata-air-gua-rangko-yang-membuat-wisatawan-lupa-diri-OLrHa8LhLq.JPG",
+        "gmaps": "https://goo.gl/maps/23XTGpbHZfWZpXXd7"
+    },
+    {
         "name": "Menara Kudus",
         "location": "Kudus, Jawa Tengah",
         "description": "The Menara Kudus Mosque or Al-Aqsha Mosque is located in Kudus in the Indonesian province of Central Java. Dating from 1549, it is one of the oldest mosques in Indonesia, built at the time of Islam's spread through Java",
