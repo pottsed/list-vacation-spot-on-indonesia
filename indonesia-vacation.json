@@ -237,7 +237,28 @@
         "description": "Air Tiga Rasa Rejenu merupakan satu diantara obyek wisata di Kabupaten Kudus yang mempunyai keunikan",
         "picture": "https://upload.wikimedia.org/wikipedia/id/0/09/Air_Tiga_Rasa_Rejenu.JPG",
         "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
-    }
+    },
+    {
+        "name": "Makam Sunan kali jaga",
+        "location": "Demak, Jawa Tengah",
+        "description": "makam Sunan Kalijaga merupakan vacation-religi yang bertempat di demak, sunan kalijaga sendiri merupakan salah satu pendiri kerajaan islam demak, beliau juga meruapakan salah satu 'walisongo' yang menyebarkan agama islam di indonesia ",
+        "picture": "https://www.jejakpiknik.com/wp-content/uploads/2018/09/makamsunankalijaga5-630x380.jpg",
+        "gmaps": "https://goo.gl/maps/AjAEWjMzGxK7zGya8"
+    },
+    {
+        "name": "Pantai Sigandu Batang",
+        "location": "Batang, Jawa Tengah",
+        "description": "Pantai Sigandu memiliki garis pantai yang panjang dengan hamparan pasir yang luas. Sampah-sampah yang berserakan pun jarang Anda temui saat Anda berkunjung ke Pantai Sigandu Batang, lokasi nyaman buat sore-sore sambil nghopi dan menikmati senja",
+        "picture": "https://www.pantainesia.com/wp-content/uploads/2018/08/pantai-sigandu.jpg",
+        "gmaps": "https://goo.gl/maps/UwF3XUKGz5MHsmpm8"
+    },
+    {
+        "name": "Pantai Sendang Sekucing",
+        "location": "Kendal, Jawa Tengah",
+        "description": "Pantai Sendang Sekucing merupakan pantai yang berada di desa Sendang Sekucing, Kecamatan Rowosari, kurang lebih 5 km sebelah utara dari kota Weleri atau 22 km dari kota Kendal. Perjalanan dari Weleri memakan waktu sekitar 10 menit",
+        "picture": "https://cdn-2.tstatic.net/jateng/foto/bank/images/pantai-widuri-pemalang-mantap.jpg",
+        "gmaps": "https://goo.gl/maps/Eau6R4kaDd6QaEpL9"
+    },
 ]
 =======
         "name" : "pulau pahawang",
