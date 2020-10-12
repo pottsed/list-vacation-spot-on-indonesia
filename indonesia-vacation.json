@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< Updated upstream
         "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
         "location": "Daerah Khusus Ibukota Jakarta",
         "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
@@ -238,3 +239,33 @@
         "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
     }
 ]
+=======
+        "name" : "pulau pahawang",
+        "location" : "Lampung",
+        "description" : "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
+        "picture" : "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
+        "gmaps": "https://goo.gl/maps/fJjboTvkbcwGQ9XG7"
+    },
+    {
+        "name" : "pulau pisang",
+        "location" : "lampung",
+        "description" : "pulau pisang adlah sebuah kecamatan yang berada di wilayah kabupaten pesisir barat, lampung",
+        "picture" : "https://lh5.googleusercontent.com/p/AF1QipO3O-Lpe6oRWVBF3_-IFaC--NsqonBwycYm3uqK=w426-h240-k-no",
+        "gmaps" : "https://goo.gl/maps/PSdJtQaNs2saA46S9"
+    },
+    {
+        "name" : "gunung seminung",
+        "location" : "lampung",
+        "description" : "gunung ini merupakan gunung antar provinsi. gunung ini berada di sebelah barat laut dari kota liwa dengan jarak sekitar 25 km",
+        "picture" : "https://lh5.googleusercontent.com/p/AF1QipOuzl2oe5evk70RtWzVN89ZPEsDZzDgxjkbR1g3=w507-h240-k-no",
+        "gmaps" : "https://goo.gl/maps/DNh8XpSChcsQns887"
+    },
+    {
+        "name" : "pulau tegal mas",
+        "location" : "lampung",
+        "description" : "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
+        "picture" : "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
+        "gmaps" : "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
+    }
+]
+>>>>>>> Stashed changes
