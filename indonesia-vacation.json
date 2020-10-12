@@ -194,5 +194,19 @@
         "description": "Pulau Kakaban adalah salah satu pulau di Kepulauan Derawan, di dalamnya terdapat berbagai wisata menarik, seperti Danau Kakaban yang di dalamnya terdapat ubur-ubur yang tidak menyengat dan dapat diajak berenang bersama.",
         "picture": "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2017/07/4d-1-by-luvtraveling-740x555.jpg",
         "gmaps": "https://goo.gl/maps/4FmwZweejgrpKdQC8"
+    },
+    {
+        "name": "Menara Kudus",
+        "location": "Kudus, Jawa Tengah",
+        "description": "The Menara Kudus Mosque or Al-Aqsha Mosque is located in Kudus in the Indonesian province of Central Java. Dating from 1549, it is one of the oldest mosques in Indonesia, built at the time of Islam's spread through Java",
+        "picture": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2018/05/070ddaa089a7b6a55b0cc0bd5f986763.jpg",
+        "gmaps": "https://goo.gl/maps/zCzsGChVU8gUpMgV6"
+    },
+    {
+        "name": "Air 3 Rasa",
+        "location": "Kudus, Jawa Tengah",
+        "description": "Air Tiga Rasa Rejenu merupakan satu diantara obyek wisata di Kabupaten Kudus yang mempunyai keunikan",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/0/09/Air_Tiga_Rasa_Rejenu.JPG",
+        "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
     }
 ]
