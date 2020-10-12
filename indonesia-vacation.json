@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< Updated upstream
         "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
         "location": "Daerah Khusus Ibukota Jakarta",
         "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
@@ -237,35 +236,12 @@
         "description": "Air Tiga Rasa Rejenu merupakan satu diantara obyek wisata di Kabupaten Kudus yang mempunyai keunikan",
         "picture": "https://upload.wikimedia.org/wikipedia/id/0/09/Air_Tiga_Rasa_Rejenu.JPG",
         "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
-    }
+    },
+    {
+        "name": "Bukit Pergasingan Sembalun",
+        "location": "Lombok, Nusa Tenggara Barat",
+        "description": "Salah satu bukit yang terkenal di daerah Sembalun, Kawasan Gunung Rinjani. Dari desa Sembalun, kita harus mendaki sekitar 1.000 meter. Jalanan yang dilalui pun agak terjal. Cocok buat Anda yang suka dengan tantangan. Perjalanan mendaki bukit ini sekitar 2 - 3 jam. Di sini Kita dapat bermalam (camping), sambil menunggu Sunrise. Perjalanan melelahkan ke bukit ini akan terbayarkan dengan pemandangan yang cantik dengan latar belakang Gunun Rinjani dan persawahan. Sungguh cantik Indonesiaku.",
+        "picture": "https://www.kintamani.id/wp-content/uploads/bukit-pergasingan-lombok-3.jpg",
+        "gmaps": "https://goo.gl/maps/C74q4kBmikveVpyF7"
+    },
 ]
-=======
-        "name" : "pulau pahawang",
-        "location" : "Lampung",
-        "description" : "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
-        "gmaps": "https://goo.gl/maps/fJjboTvkbcwGQ9XG7"
-    },
-    {
-        "name" : "pulau pisang",
-        "location" : "lampung",
-        "description" : "pulau pisang adlah sebuah kecamatan yang berada di wilayah kabupaten pesisir barat, lampung",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipO3O-Lpe6oRWVBF3_-IFaC--NsqonBwycYm3uqK=w426-h240-k-no",
-        "gmaps" : "https://goo.gl/maps/PSdJtQaNs2saA46S9"
-    },
-    {
-        "name" : "gunung seminung",
-        "location" : "lampung",
-        "description" : "gunung ini merupakan gunung antar provinsi. gunung ini berada di sebelah barat laut dari kota liwa dengan jarak sekitar 25 km",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipOuzl2oe5evk70RtWzVN89ZPEsDZzDgxjkbR1g3=w507-h240-k-no",
-        "gmaps" : "https://goo.gl/maps/DNh8XpSChcsQns887"
-    },
-    {
-        "name" : "pulau tegal mas",
-        "location" : "lampung",
-        "description" : "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
-        "gmaps" : "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
-    }
-]
->>>>>>> Stashed changes
