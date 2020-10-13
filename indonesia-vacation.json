@@ -278,5 +278,20 @@
         "description" : "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
         "picture" : "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
         "gmaps" : "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
-    }
+    },
+    {
+        "name": "Kebun Teh Kaligua",
+        "location": "Brebes",
+        "description": "Kebun Teh Kaligua Bumiayu, Brebes ini merupakan destinasi wisata dengan panorama pegunungan Teh yang hijau",
+        "picture": "https://thumb.suaramerdeka.com/media/frontend/thumbs3/images/2018/06/25/thumbnail17-5b3110357b248_665_374.jpg",
+        "gmaps": "https://goo.gl/maps/Aiyh3scnhAVhYRQq5"
+    },
+    {
+        "name": "Guci",
+        "location": "Tegal",
+        "description": "Wisata Guci Tegal merupakan tempat tersedianya air panas yang mengalir secara alami dari perut bumi.",
+        "picture": "https://m.liputan6.com/hot/read/4067306/5-wisata-guci-tegal-jawa-tengah-yang-wajib-dikunjungi-alamnya-sejuk",
+        "gmaps": "https://goo.gl/maps/zRqLpxV1UwaVvtzU8"
+    },
+
 ]
