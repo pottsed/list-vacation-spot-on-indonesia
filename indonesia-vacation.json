@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< Updated upstream
         "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
         "location": "Daerah Khusus Ibukota Jakarta",
         "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
@@ -13,6 +12,20 @@
         "description": "Gunung Ungaran adalah gunung berapi bertipe Stratovolcano yang terletak di Ungaran, Kabupaten Semarang, Jawa Tengah dan memiliki ketinggian 2.050 meter.",
         "picture": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gunungungaran.jpg",
         "gmaps": "https://goo.gl/maps/DE9xA4bwNyBecXqV6"
+    },
+    {
+        "name": "Kampung Vietnam (Vietnam Camp)",
+        "location": "Batam, Kepulauan Riau",
+        "description": "Kem pengungsi Galang adalah tempat pengungsian orang Vietnam yang pada tahun 1979 - 1996 sering dikenal sebagai manusia sampan. Kem ini berada di pulau Galang di bagian selatan pulau Batam dengan jarak lebih kurang 7 km.",
+        "picture": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1557221350/x4kp5ecsidbodmv8n8c4.jpg",
+        "gmaps": "https://goo.gl/maps/2CD3EgY11wo21icLA"
+    },
+    {
+        "name": "Jembatan Barelang",
+        "location": "Batam, Kepulauan Riau",
+        "description": "Jembatan Barelang (singkatan dari Batam, Rempang, dan Galang) adalah sekumpulan jembatan yang menghubungkan pulau-pulau yaitu Pulau Batam, Pulau Tonton, Pulau Nipah, Pulau Rempang, Pulau Galang dan Pulau Galang Baru di daerah Batam, provinsi Kepulauan Riau, Indonesia. Masyarakat setempat menyebutnya 'Jembatan Barelang'. Ada juga yang menyebutnya 'Jembatan Habibie' sebagai bentuk penghargaan atas jasa beliau dalam mengembangkan pulau Batam sebagai pulau industri serta mempelopori pembangunan jembatan ini.",
+        "picture": "https://newswantara.com/wp-content/uploads/2017/07/80jembatan-barelang-ardi-facebook-696x435.jpg",
+        "gmaps": "https://goo.gl/maps/v1PrRR6jdJX69mBT8"
     },
     {
         "name": "Goa Kreo",
@@ -239,54 +252,52 @@
         "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
     },
     {
-        "name": "Makam Sunan kali jaga",
-        "location": "Demak, Jawa Tengah",
-        "description": "makam Sunan Kalijaga merupakan vacation-religi yang bertempat di demak, sunan kalijaga sendiri merupakan salah satu pendiri kerajaan islam demak, beliau juga meruapakan salah satu 'walisongo' yang menyebarkan agama islam di indonesia ",
-        "picture": "https://www.jejakpiknik.com/wp-content/uploads/2018/09/makamsunankalijaga5-630x380.jpg",
-        "gmaps": "https://goo.gl/maps/AjAEWjMzGxK7zGya8"
-    },
-    {
-        "name": "Pantai Sigandu Batang",
-        "location": "Batang, Jawa Tengah",
-        "description": "Pantai Sigandu memiliki garis pantai yang panjang dengan hamparan pasir yang luas. Sampah-sampah yang berserakan pun jarang Anda temui saat Anda berkunjung ke Pantai Sigandu Batang, lokasi nyaman buat sore-sore sambil nghopi dan menikmati senja",
-        "picture": "https://www.pantainesia.com/wp-content/uploads/2018/08/pantai-sigandu.jpg",
-        "gmaps": "https://goo.gl/maps/UwF3XUKGz5MHsmpm8"
-    },
-    {
-        "name": "Pantai Sendang Sekucing",
-        "location": "Kendal, Jawa Tengah",
-        "description": "Pantai Sendang Sekucing merupakan pantai yang berada di desa Sendang Sekucing, Kecamatan Rowosari, kurang lebih 5 km sebelah utara dari kota Weleri atau 22 km dari kota Kendal. Perjalanan dari Weleri memakan waktu sekitar 10 menit",
-        "picture": "https://cdn-2.tstatic.net/jateng/foto/bank/images/pantai-widuri-pemalang-mantap.jpg",
-        "gmaps": "https://goo.gl/maps/Eau6R4kaDd6QaEpL9"
-    },
-]
-=======
-        "name" : "pulau pahawang",
-        "location" : "Lampung",
-        "description" : "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
+        "name": "pulau pahawang",
+        "location": "Lampung",
+        "description": "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
         "gmaps": "https://goo.gl/maps/fJjboTvkbcwGQ9XG7"
     },
     {
-        "name" : "pulau pisang",
-        "location" : "lampung",
-        "description" : "pulau pisang adlah sebuah kecamatan yang berada di wilayah kabupaten pesisir barat, lampung",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipO3O-Lpe6oRWVBF3_-IFaC--NsqonBwycYm3uqK=w426-h240-k-no",
-        "gmaps" : "https://goo.gl/maps/PSdJtQaNs2saA46S9"
+        "name": "pulau pisang",
+        "location": "lampung",
+        "description": "pulau pisang adlah sebuah kecamatan yang berada di wilayah kabupaten pesisir barat, lampung",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipO3O-Lpe6oRWVBF3_-IFaC--NsqonBwycYm3uqK=w426-h240-k-no",
+        "gmaps": "https://goo.gl/maps/PSdJtQaNs2saA46S9"
     },
     {
-        "name" : "gunung seminung",
-        "location" : "lampung",
-        "description" : "gunung ini merupakan gunung antar provinsi. gunung ini berada di sebelah barat laut dari kota liwa dengan jarak sekitar 25 km",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipOuzl2oe5evk70RtWzVN89ZPEsDZzDgxjkbR1g3=w507-h240-k-no",
-        "gmaps" : "https://goo.gl/maps/DNh8XpSChcsQns887"
+        "name": "gunung seminung",
+        "location": "lampung",
+        "description": "gunung ini merupakan gunung antar provinsi. gunung ini berada di sebelah barat laut dari kota liwa dengan jarak sekitar 25 km",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipOuzl2oe5evk70RtWzVN89ZPEsDZzDgxjkbR1g3=w507-h240-k-no",
+        "gmaps": "https://goo.gl/maps/DNh8XpSChcsQns887"
     },
     {
-        "name" : "pulau tegal mas",
-        "location" : "lampung",
-        "description" : "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
-        "gmaps" : "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
-    }
+        "name": "pulau tegal mas",
+        "location": "lampung",
+        "description": "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
+        "gmaps": "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
+    },
+    {
+        "name": "pulau tegal mas",
+        "location": "lampung",
+        "description": "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
+        "gmaps": "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
+    },
+    {
+        "name": "Kebun Teh Kaligua",
+        "location": "Brebes",
+        "description": "Kebun Teh Kaligua Bumiayu, Brebes ini merupakan destinasi wisata dengan panorama pegunungan Teh yang hijau",
+        "picture": "https://thumb.suaramerdeka.com/media/frontend/thumbs3/images/2018/06/25/thumbnail17-5b3110357b248_665_374.jpg",
+        "gmaps": "https://goo.gl/maps/Aiyh3scnhAVhYRQq5"
+    },
+    {
+        "name": "Guci",
+        "location": "Tegal",
+        "description": "Wisata Guci Tegal merupakan tempat tersedianya air panas yang mengalir secara alami dari perut bumi.",
+        "picture": "https://m.liputan6.com/hot/read/4067306/5-wisata-guci-tegal-jawa-tengah-yang-wajib-dikunjungi-alamnya-sejuk",
+        "gmaps": "https://goo.gl/maps/zRqLpxV1UwaVvtzU8"
+    },
 ]
->>>>>>> Stashed changes
