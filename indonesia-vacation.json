@@ -252,10 +252,10 @@
         "gmaps": "https://goo.gl/maps/8oWiBk2zCV3HWGhk8"
     },
     {
-        "name" : "pulau pahawang",
-        "location" : "Lampung",
-        "description" : "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
+        "name": "pulau pahawang",
+        "location": "Lampung",
+        "description": "pulau pahawang adalah desa dan pulau di kecamatan marga punduh, kabupaten pesawaran, lampung. pulau ini terletak lepas teluk punduh",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipPvVW6MI9vg7vGxszoAs-SpG3cqn8g7q2ni3boe=w408-h306-k-no",
         "gmaps": "https://goo.gl/maps/fJjboTvkbcwGQ9XG7"
     },
     {
@@ -280,11 +280,11 @@
         "gmaps": "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
     },
     {
-        "name" : "pulau tegal mas",
-        "location" : "lampung",
-        "description" : "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
-        "picture" : "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
-        "gmaps" : "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
+        "name": "pulau tegal mas",
+        "location": "lampung",
+        "description": "banyak yang menyebutnya mirip maladewa, karena ekosisteme alam & penginapan terapung yang ada di sekelilingnya",
+        "picture": "https://lh5.googleusercontent.com/p/AF1QipMRKOIvoOY6tbWH0_HYWWWIhINVoGtCFdsqxuM=w408-h306-k-no",
+        "gmaps": "https://goo.gl/maps/N7MaVQcBMdfvgreb7"
     },
     {
         "name": "Kebun Teh Kaligua",
@@ -300,5 +300,4 @@
         "picture": "https://m.liputan6.com/hot/read/4067306/5-wisata-guci-tegal-jawa-tengah-yang-wajib-dikunjungi-alamnya-sejuk",
         "gmaps": "https://goo.gl/maps/zRqLpxV1UwaVvtzU8"
     },
-
 ]
