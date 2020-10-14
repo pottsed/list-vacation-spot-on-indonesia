@@ -300,4 +300,18 @@
         "picture": "https://m.liputan6.com/hot/read/4067306/5-wisata-guci-tegal-jawa-tengah-yang-wajib-dikunjungi-alamnya-sejuk",
         "gmaps": "https://goo.gl/maps/zRqLpxV1UwaVvtzU8"
     },
+    {
+        "name": "Jembatan situ gunung",
+        "location": "Sukabumi",
+        "description": "Jembatan ini merupakan jembatan terpanjang di Indonesia dan juga memiliki pemandangan alam yang indah.Di sekitar jembatan ini di kelilingi pohon-pohon dan juga bukit-bukit, membuat suasana di tempat ini menjadi sejuk, indah dan juga tenang.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Jembatan-Situ-Gunung.jpg",
+        "gmaps": "https://goo.gl/maps/4J22H1xdN5a4pepY6"
+    },
+    {
+        "name": "Tebing Panenjoan",
+        "location": "Sukabumi",
+        "description": "Tebing Panenjoan awalnya adalah tepi jurang Lembah Ciletuh yang sudah dibangun pagar pembatas aman sebagai tempat untuk menyaksikan keindahan alam. wisatawan bisa melihat keindahan hamparan sawah dan perkampungan warga.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Tebing-Panenjoan.jpg",
+        "gmaps": "https://g.page/properti-sukabumi?share"
+    }
 ]
