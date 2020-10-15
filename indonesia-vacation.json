@@ -313,5 +313,19 @@
         "description": "Pulau Kemaro, merupakan sebuah delta kecil di Sungai Musi, terletak sekitar 6 km dari Jembatan Ampera. Pulau Kemaro terletak di daerah industri, yaitu di antara Pabrik Pupuk Sriwijaya dan Pertamina Plaju dan Sungai Gerong. Posisi Pulau Kemaro adalah agak ke timur dari pusat Kota Palembang.",
         "picture": "https://upload.wikimedia.org/wikipedia/id/8/89/PulauKemaro.jpg",
         "gmaps": "https://www.google.com/maps/place/Pulau+Kemaro/@-2.9786109,104.7999904,14z/data=!3m1!4b1!4m5!3m4!1s0x2e3b77c13ce8f91d:0x1da84a7dd3c83543!8m2!3d-2.9786111!4d104.8175?hl=id"
+    },
+    {
+        "name": "Jembatan situ gunung",
+        "location": "Sukabumi",
+        "description": "Jembatan ini merupakan jembatan terpanjang di Indonesia dan juga memiliki pemandangan alam yang indah.Di sekitar jembatan ini di kelilingi pohon-pohon dan juga bukit-bukit, membuat suasana di tempat ini menjadi sejuk, indah dan juga tenang.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Jembatan-Situ-Gunung.jpg",
+        "gmaps": "https://goo.gl/maps/4J22H1xdN5a4pepY6"
+    },
+    {
+        "name": "Tebing Panenjoan",
+        "location": "Sukabumi",
+        "description": "Tebing Panenjoan awalnya adalah tepi jurang Lembah Ciletuh yang sudah dibangun pagar pembatas aman sebagai tempat untuk menyaksikan keindahan alam. wisatawan bisa melihat keindahan hamparan sawah dan perkampungan warga.",
+        "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Tebing-Panenjoan.jpg",
+        "gmaps": "https://g.page/properti-sukabumi?share"
     }
- ]
+]
