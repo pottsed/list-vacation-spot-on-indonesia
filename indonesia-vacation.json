@@ -327,5 +327,19 @@
         "description": "Tebing Panenjoan awalnya adalah tepi jurang Lembah Ciletuh yang sudah dibangun pagar pembatas aman sebagai tempat untuk menyaksikan keindahan alam. wisatawan bisa melihat keindahan hamparan sawah dan perkampungan warga.",
         "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Tebing-Panenjoan.jpg",
         "gmaps": "https://g.page/properti-sukabumi?share"
+    },
+    {
+        "name": "Taman Wisata Alam Punti Kayu",
+        "location": "Palembang, Sumatera Selatan",
+        "description": "Taman Wisata Alam Punti Kayu adalah sebuah kawasan pelestarian alam yang dimanfaatkan untuk kegiatan pariwisata alam dan rekreasi di Palembang, Sumatra Selatan. Terletak di tengah kota Palembang - tepatnya di kawasan Km.7 Palembang, Punti Kayu menjadi tempat liburan favorit yang ramai dikunjungi warga kota Palembang khususnya pada akhir pekan dan hari-hari libur.",
+        "picture": "https://travelspromo.com/wp-content/uploads/2019/05/Punti-Kayu-Palembang-Michael-Kesuma.jpg",
+        "gmaps": "https://goo.gl/maps/qEGGiv3nHtuMiP9L8"
+    },
+    {
+        "name": "Taman Purbakala Kerajaan Sriwijaya",
+        "location": "Palembang, Sumatera Selatan",
+        "description": "Taman Purbakala Kerajaan Sriwijaya atau sebelumnya dikenal dengan nama Situs Karanganyar adalah taman purbakala bekas kawasan permukiman dan taman yang dikaitkan dengan kerajaan Sriwijaya yang terletak tepi utara Sungai Musi di kota Palembang, Sumatra Selatan.",
+        "picture": "https://southsumatratourism.com/wp-content/uploads/2018/02/IMG_2619.jpg",
+        "gmaps": "https://goo.gl/maps/K4gtc2NcADbabcZZA"
     }
 ]
