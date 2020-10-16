@@ -341,5 +341,19 @@
         "description": "Taman Purbakala Kerajaan Sriwijaya atau sebelumnya dikenal dengan nama Situs Karanganyar adalah taman purbakala bekas kawasan permukiman dan taman yang dikaitkan dengan kerajaan Sriwijaya yang terletak tepi utara Sungai Musi di kota Palembang, Sumatra Selatan.",
         "picture": "https://southsumatratourism.com/wp-content/uploads/2018/02/IMG_2619.jpg",
         "gmaps": "https://goo.gl/maps/K4gtc2NcADbabcZZA"
+    },
+    {
+        "name": "Pantai Parangkusumo",
+        "location": "Bantul",
+        "description": "Pantai Parangkusumo merupakan objek wisata alam yang terletak di Kabupaten Bantul, Provinsi DIY, sekitar tiga puluh kilometer di sebelah selatan kota Yogyakarta.",
+        "picture": "https://www.jejakpiknik.com/wp-content/uploads/2017/05/cc-1-630x380.jpg",
+        "gmaps": "https://goo.gl/maps/5YaQWqYoEmc65hLv7"
+    },
+    {
+        "name": "Pantai Kertomulyo",
+        "location": "Pati",
+        "description": "Pantai Kertomulyo terletak di desa Kertomulyo, Kecamatan Trangkil, kabupaten Pati, Provinsi Jawa Tengah. Pantai ini memiliki manngrove yang tertata rapi di sepanjang pantai dan deburan ombak pantai yang saling bersautan.",
+        "picture": "https://www.patinews.com/wp-content/uploads/2018/06/wp-1530259019888281484717.jpg",
+        "gmaps": "https://goo.gl/maps/Jd5HfHZSxytVim6Y8"
     }
 ]
