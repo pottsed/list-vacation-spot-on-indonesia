@@ -327,5 +327,19 @@
         "description": "Tebing Panenjoan awalnya adalah tepi jurang Lembah Ciletuh yang sudah dibangun pagar pembatas aman sebagai tempat untuk menyaksikan keindahan alam. wisatawan bisa melihat keindahan hamparan sawah dan perkampungan warga.",
         "picture": "https://www.javatravel.net/wp-content/uploads/2019/05/Tebing-Panenjoan.jpg",
         "gmaps": "https://g.page/properti-sukabumi?share"
+    },
+    {
+        "name": "Pantai Parangkusumo",
+        "location": "Bantul",
+        "description": "Pantai Parangkusumo merupakan objek wisata alam yang terletak di Kabupaten Bantul, Provinsi DIY, sekitar tiga puluh kilometer di sebelah selatan kota Yogyakarta.",
+        "picture": "https://www.jejakpiknik.com/wp-content/uploads/2017/05/cc-1-630x380.jpg",
+        "gmaps": "https://goo.gl/maps/5YaQWqYoEmc65hLv7"
+    },
+    {
+        "name": "Pantai Kertomulyo",
+        "location": "Pati",
+        "description": "Pantai Kertomulyo terletak di desa Kertomulyo, Kecamatan Trangkil, kabupaten Pati, Provinsi Jawa Tengah. Pantai ini memiliki manngrove yang tertata rapi di sepanjang pantai dan deburan ombak pantai yang saling bersautan.",
+        "picture": "https://www.patinews.com/wp-content/uploads/2018/06/wp-1530259019888281484717.jpg",
+        "gmaps": "https://goo.gl/maps/Jd5HfHZSxytVim6Y8"
     }
 ]
