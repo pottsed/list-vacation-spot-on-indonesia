@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Dunia Fantasi (Dunia Fantasi - Ancol)",
         "location": "Daerah Khusus Ibukota Jakarta",
         "description": "Internationally themed amusement park offering roller coasters, interactive rides, flumes & shows.",
@@ -355,5 +354,12 @@
         "description": "Pantai Kertomulyo terletak di desa Kertomulyo, Kecamatan Trangkil, kabupaten Pati, Provinsi Jawa Tengah. Pantai ini memiliki manngrove yang tertata rapi di sepanjang pantai dan deburan ombak pantai yang saling bersautan.",
         "picture": "https://www.patinews.com/wp-content/uploads/2018/06/wp-1530259019888281484717.jpg",
         "gmaps": "https://goo.gl/maps/Jd5HfHZSxytVim6Y8"
+    },
+    {
+        "name": "Air Terjun Ponot",
+        "location": "Asahan, Sumatera Utara",
+        "description": "Air Terjun Ponot adalah sebuah air terjun yang berada di Dusun Sampuransiarimo, Desa Halado, Kecamatan Pintu Pohan Meranti, Kabupaten Toba Samosir, Provinsi Sumatera Utara, Indonesia. Air Terjun Ponot memiliki ketinggian hingga 100 meter dan memiliki tiga undakan air terjun. Air Terjun Ponot berada di aliran Sungai Ponot yang merupakan anak Sungai Asahan di ketinggian sekitar 500 meter di atas permukaan air laut.",
+        "picture": "https://orbitdigitaldaily.com/wp-content/uploads/2018/11/received_2150781965181714.jpeg",
+        "gmaps": "https://goo.gl/maps/ASCZKYgieTskiyBG7"
     }
 ]
