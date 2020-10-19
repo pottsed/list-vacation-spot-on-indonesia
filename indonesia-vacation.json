@@ -361,5 +361,12 @@
         "description": "Air Terjun Ponot adalah sebuah air terjun yang berada di Dusun Sampuransiarimo, Desa Halado, Kecamatan Pintu Pohan Meranti, Kabupaten Toba Samosir, Provinsi Sumatera Utara, Indonesia. Air Terjun Ponot memiliki ketinggian hingga 100 meter dan memiliki tiga undakan air terjun. Air Terjun Ponot berada di aliran Sungai Ponot yang merupakan anak Sungai Asahan di ketinggian sekitar 500 meter di atas permukaan air laut.",
         "picture": "https://orbitdigitaldaily.com/wp-content/uploads/2018/11/received_2150781965181714.jpeg",
         "gmaps": "https://goo.gl/maps/ASCZKYgieTskiyBG7"
+    }, 
+    {
+        "name" : "Bangka Belitung Island",
+        "location" : "Kepulauan Bangka Belitung",
+        "description" : "Provinsi Kepulauan Bangka Belitung (disingkat Babel) adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pangkalpinang-Bangka_Island.jpg/250px-Pangkalpinang-Bangka_Island.jpg",
+        "gmaps" : "https://goo.gl/maps/FBKoic8Y38cDQesH7"
     }
 ]
