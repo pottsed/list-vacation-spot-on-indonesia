@@ -368,5 +368,19 @@
         "description" : "Provinsi Kepulauan Bangka Belitung (disingkat Babel) adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau.",
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pangkalpinang-Bangka_Island.jpg/250px-Pangkalpinang-Bangka_Island.jpg",
         "gmaps" : "https://goo.gl/maps/FBKoic8Y38cDQesH7"
+    }, 
+    {
+        "name" : "Puri Maerokoco atau Taman Mini Jawa Tengah Indah",
+        "location" : "Jalan Yos Sudarso, Semarang, Jawa Tengah",
+        "description" : "Puri Maerokoco adalah salah satu bagian taman dari kawasan PRPP Jawa Tengah. Sebagai taman mini Jawa Tengah yang merangkum semua rumah adat yang disebut dengan anjungan dari 35 kabupaten dan kota yang ada di Jawa Tengah. Di dalam rumah-rumah tersebut digelar hasil–hasil industri dan kerajinan yang diproduksi oleh masing–masing daerah. Selain menampilkan rumah– rumah adat, objek wisata ini dilengkapi dengan fasilitas rekreasi air seperti, sepeda air, perahu, juga kereta bagi pengunjung.",
+        "picture" : "https://www.nativeindonesia.com/wp-content/uploads/2018/11/Maerokoco-Overview-1.jpg",
+        "gmaps" : "https://g.page/Maerakaca?share"
+    }, 
+    {
+        "name" : "Taman Wisata Goa Sunyaragi Cirebon",
+        "location" : "Sunyaragi, Kesambi, Kota Cirebon, Jawa Barat",
+        "description" : "Gua Sunyaragi atau Taman Sari Guwa Sunyaragi adalah sebuah gua yang berlokasi di kelurahan Sunyaragi, Kesambi, Kota Cirebon di mana terdapat bangunan mirip candi yang disebut Gua Sunyaragi, atau Taman Air Sunyaragi, atau sering disebut sebgaai Tamansari Sunyaragi.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/c/cb/Arya.sunyaragi.cave.2014.jpg",
+        "gmaps" : "https://goo.gl/maps/k6G7GCqMdJ3pqmSV6"
     }
 ]
