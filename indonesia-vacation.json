@@ -382,5 +382,14 @@
         "description" : "Gua Sunyaragi atau Taman Sari Guwa Sunyaragi adalah sebuah gua yang berlokasi di kelurahan Sunyaragi, Kesambi, Kota Cirebon di mana terdapat bangunan mirip candi yang disebut Gua Sunyaragi, atau Taman Air Sunyaragi, atau sering disebut sebgaai Tamansari Sunyaragi.",
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/c/cb/Arya.sunyaragi.cave.2014.jpg",
         "gmaps" : "https://goo.gl/maps/k6G7GCqMdJ3pqmSV6"
+    },
+    {
+        "name" : "Taman Wisata Situ Gede",
+        "location" : "Situgede, Kota Tasikmalaya, Jawa Barat",
+        "description" : "Tempat wisata situ gede yang terkenal di kota tasikmalaya.",
+        "picture" : "https://www.jejakpiknik.com/wp-content/uploads/2018/05/Screenshot_12-10-630x380.jpg",
+        "gmaps" : "https://goo.gl/maps/T7rqJFWZyWkJTshRA"
     }
+
+    
 ]
